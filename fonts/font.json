@@ -1375,6 +1375,1447 @@
       }
     },
     {
+      "id": "haenamgokr",
+      "family": "haenamfont",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/haenamgokr/haenamgokr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "해남체",
+          "en": "HaenamFont"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "해남체 Regular",
+          "en": "HaenamFont Regular"
+        },
+        "Full Font Name": {
+          "ko": "해남체",
+          "en": "HaenamFont"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "HaenamFont",
+          "en": "HaenamFont"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "hanamdaum",
+      "family": "hanamdaum",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hanamdaum/hanamdaum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.hanam.go.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 HANAMCITY. All rights reserved. Font designed by HANAMCITY.",
+          "en": "Copyright (c) 2022 HANAMCITY. All rights reserved. Font designed by HANAMCITY."
+        },
+        "Font Family": {
+          "ko": "하남다움체",
+          "en": "HANAMDAUM"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "HANAMCITY;HANAMDAUM;Regular"
+        },
+        "Full Font Name": {
+          "ko": "하남다움체 Regular",
+          "en": "HANAMDAUM Regular"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "HANAMDAUMR"
+        },
+        "Trademark": {
+          "en": "HANAMDAUM Regular is a registered trademark of HANAMCITY."
+        },
+        "Manufacturer": {
+          "en": "HANAMCITY"
+        },
+        "Designer": {
+          "ko": "박용락; 유현주;",
+          "en": "Park Young-rak; Yu Hyun-ju;"
+        },
+        "URL Vendor": {
+          "en": "https://www.hanam.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "하남다움체",
+          "en": "HANAMDAUM"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "hanamdaum-body-a",
+      "family": "hanamdaum_body_a",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.001",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hanamdaum/hanamdaum_body_a.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.hanam.go.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 HANAMCITY. All rights reserved. Font designed by HANAMCITY.",
+          "en": "Copyright (c) 2022 HANAMCITY. All rights reserved. Font designed by HANAMCITY."
+        },
+        "Font Family": {
+          "ko": "하남다움체 본문",
+          "en": "HANAMDAUM Body"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "HANAMCITY;HANAMDAUM Body;Regular"
+        },
+        "Full Font Name": {
+          "ko": "하남다움체 본문 Regular",
+          "en": "HANAMDAUM Body Regular"
+        },
+        "Version": {
+          "en": "Version 1.001; Build Release"
+        },
+        "PostScript Name": {
+          "en": "HANAMDAUMBodyR"
+        },
+        "Trademark": {
+          "en": "HANAMDAUM Body Regular is a registered trademark of HANAMCITY."
+        },
+        "Manufacturer": {
+          "en": "HANAMCITY"
+        },
+        "Designer": {
+          "ko": "박용락; 유현주;",
+          "en": "Park Young-rak; Yu Hyun-ju;"
+        },
+        "URL Vendor": {
+          "en": "https://www.hanam.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "하남다움체 본문",
+          "en": "HANAMDAUM Body"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "hancomhoonminjeongeumh",
+      "family": "hancomhoonminjeongeumh",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hancom/hancomhoonminjeongeumh.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS",
+          "WWS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2020 Hancom INC(HNC). All rights reserved."
+        },
+        "Font Family": {
+          "ko": "한컴 훈민정음 가로쓰기",
+          "en": "Hancom Hoonminjeongeum_H"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;HancomHoonminjeongeumH;YDI"
+        },
+        "Full Font Name": {
+          "ko": "한컴 훈민정음 가로쓰기",
+          "en": "Hancom Hoonminjeongeum_H"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20210830"
+        },
+        "PostScript Name": {
+          "en": "HancomHoonminjeongeumH"
+        },
+        "Trademark": {
+          "en": "Hancom Hoonminjeongeum_H is a trademark of Hancom INC(HNC)."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한컴 훈민정음 가로쓰기"
+        }
+      }
+    },
+    {
+      "id": "hancommalangmalang",
+      "family": "hancommalangmalang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hancom/hancommalangmalang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 15,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2020 Hancom INC(HNC). All rights reserved."
+        },
+        "Font Family": {
+          "ko": "한컴 말랑말랑 Regular",
+          "en": "Hancom MalangMalang Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;HancomMalangMalang-Regular"
+        },
+        "Full Font Name": {
+          "ko": "한컴 말랑말랑 Regular",
+          "en": "Hancom MalangMalang Regular"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20200924"
+        },
+        "PostScript Name": {
+          "en": "HancomMalangMalang-Regular"
+        },
+        "Trademark": {
+          "en": "Hancom MalangMalang is a trademark of Hancom INC(HNC)."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한컴 말랑말랑",
+          "en": "Hancom MalangMalang"
+        }
+      }
+    },
+    {
+      "id": "hancomuljubangudaepetroglyph",
+      "family": "hancomuljubangudaepetroglyph",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hancom/hancomuljubangudaepetroglyph.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 Ulju Cultural Foundation. & Hancom Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "한컴 울주 반구대 암각화체",
+          "en": "Hancom Ulju Bangudae Petroglyph"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;HancomUljuBangudaePetroglyph"
+        },
+        "Full Font Name": {
+          "ko": "한컴 울주 반구대 암각화체",
+          "en": "Hancom Ulju Bangudae Petroglyph"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20220322"
+        },
+        "PostScript Name": {
+          "en": "HancomUljuBangudaePetroglyph"
+        },
+        "Trademark": {
+          "en": "Hancom Ulju Bangudae Petroglyph is a trademark of Ulju Cultural Foundation. & Hancom Inc."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "hancomuljucheonjeonripetroglyph",
+      "family": "hancomuljucheonjeonripetroglyph",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hancom/hancomuljucheonjeonripetroglyph.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 Ulju Cultural Foundation. & Hancom Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "한컴 울주 천전리 각석체",
+          "en": "Hancom Ulju Cheonjeonri Petroglyph"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;HancomUljuCheonjeonriPetrogl"
+        },
+        "Full Font Name": {
+          "ko": "한컴 울주 천전리 각석체",
+          "en": "Hancom Ulju Cheonjeonri Petroglyph"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20220322"
+        },
+        "PostScript Name": {
+          "en": "HancomUljuCheonjeonriPetrogl"
+        },
+        "Trademark": {
+          "en": "Hancom Ulju Cheonjeonri Petroglyph is a trademark of Ulju Cultural Foundation. & Hancom Inc."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "handon3gyeopsal300g",
+      "family": "handon3gyeopsal300g",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/han-don/handon3gyeopsal300g.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.han-don.com/ & http://www.sandoll.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2018 한돈자조금관리위원회 & Sandoll. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "en": "Copyright © 2018 Handon & Sandoll. All rights reserved. Font designed by Sandoll Communications Inc."
+        },
+        "Font Family": {
+          "ko": "한돈 삼겹살 300g",
+          "en": "Handon 3gyeopsal 300g"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;Handon3gyeopsal300g;181011_01;"
+        },
+        "Full Font Name": {
+          "ko": "한돈 삼겹살 300g",
+          "en": "Handon 3gyeopsal 300g"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
+        },
+        "PostScript Name": {
+          "en": "Handon3gyeopsal300g"
+        },
+        "Trademark": {
+          "ko": "한돈 삼겹살 is a registered trademark of Sandoll Communications Inc.",
+          "en": "Handon 3gyeopsal is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Communications Inc."
+        },
+        "Designer": {
+          "ko": "김범준; 강민재; 임창섭; 박주성;",
+          "en": "Beomjun Kim; Minjae Kang; Changseop-Im; Juseong-Park;"
+        },
+        "URL Vendor": {
+          "en": "https://www.han-don.com/ & http://www.sandoll.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "한돈 삼겹살",
+          "en": "Handon 3gyeopsal"
+        },
+        "Typographic Subfamily": {
+          "ko": "300g",
+          "en": "300g"
+        }
+      }
+    },
+    {
+      "id": "handon3gyeopsal600g",
+      "family": "handon3gyeopsal600g",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/han-don/handon3gyeopsal600g.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.han-don.com/ & http://www.sandoll.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2018 한돈자조금관리위원회 & Sandoll. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "en": "Copyright © 2018 Handon & Sandoll. All rights reserved. Font designed by Sandoll Communications Inc."
+        },
+        "Font Family": {
+          "ko": "한돈 삼겹살 600g",
+          "en": "Handon 3gyeopsal 600g"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;Handon3gyeopsal600g;181011_01;"
+        },
+        "Full Font Name": {
+          "ko": "한돈 삼겹살 600g",
+          "en": "Handon 3gyeopsal 600g"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
+        },
+        "PostScript Name": {
+          "en": "Handon3gyeopsal600g"
+        },
+        "Trademark": {
+          "ko": "한돈 삼겹살 is a registered trademark of Sandoll Communications Inc.",
+          "en": "Handon 3gyeopsal is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Communications Inc."
+        },
+        "Designer": {
+          "ko": "김범준; 강민재; 임창섭; 박주성;",
+          "en": "Beomjun Kim; Minjae Kang; Changseop-Im; Juseong-Park;"
+        },
+        "URL Vendor": {
+          "en": "https://www.han-don.com/ & http://www.sandoll.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "한돈 삼겹살",
+          "en": "Handon 3gyeopsal"
+        },
+        "Typographic Subfamily": {
+          "ko": "600g",
+          "en": "600g"
+        }
+      }
+    },
+    {
+      "id": "hangamepoker",
+      "family": "hangamepoker",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hangamepoker/hangamepoker.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © NHN Inc. All rights reserved.",
+          "en": "Copyright © NHN Inc. All rights reserved."
+        },
+        "Font Family": {
+          "en": "HangamePoker Regular"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;HangamePoker-Regular"
+        },
+        "Full Font Name": {
+          "en": "HangamePoker Regular"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20221102"
+        },
+        "PostScript Name": {
+          "en": "HangamePoker-Regular"
+        },
+        "Trademark": {
+          "en": "HangamePoker is a trademark of NHN Inc."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "en": "HangamePoker"
+        }
+      }
+    },
+    {
+      "id": "happiness-sans-print",
+      "family": "happiness-sans-print",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/happiness/happiness-sans-print.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://agfont.com/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 by THE HYUNDAI. All right reserved."
+        },
+        "Font Family": {
+          "ko": "해피니스 산스 인쇄용 레귤러",
+          "en": "Happiness Sans Print Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Full Font Name": {
+          "ko": "해피니스 산스 인쇄용 레귤러",
+          "en": "Happiness Sans Print Regular"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20220220"
+        },
+        "PostScript Name": {
+          "en": "Happiness-Sans-Print-Regular"
+        },
+        "Trademark": {
+          "en": "Happiness Sans is a trademark of THE HYUNDAI."
+        },
+        "Manufacturer": {
+          "ko": "AG 타이포그라피연구소",
+          "en": "AG Typography Institute"
+        },
+        "Designer": {
+          "ko": "구모아, 김주경, 김승환, 이노을",
+          "en": "Ku Moa, Kim Seunghwan, Kim Jookyeong, Lee Noheul"
+        },
+        "URL Vendor": {
+          "en": "https://agfont.com/"
+        },
+        "Typographic Family": {
+          "ko": "해피니스 산스 인쇄용",
+          "en": "Happiness Sans Print"
+        },
+        "Typographic Subfamily": {
+          "ko": "레귤러",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;AGTI;Happiness-Sans-Print-Regular"
+        }
+      }
+    },
+    {
+      "id": "happiness-sans-print-title",
+      "family": "happiness-sans-print-title",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/happiness/happiness-sans-print-title.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 9,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://agfont.com/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 by THE HYUNDAI. All right reserved."
+        },
+        "Font Family": {
+          "ko": "해피니스 산스 인쇄용 타이틀",
+          "en": "Happiness Sans Print Title"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Full Font Name": {
+          "ko": "해피니스 산스 인쇄용 타이틀",
+          "en": "Happiness Sans Print Title"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20220220"
+        },
+        "PostScript Name": {
+          "en": "Happiness-Sans-Print-Title"
+        },
+        "Trademark": {
+          "en": "Happiness Sans is a trademark of THE HYUNDAI."
+        },
+        "Manufacturer": {
+          "ko": "AG 타이포그라피연구소",
+          "en": "AG Typography Institute"
+        },
+        "Designer": {
+          "ko": "구모아, 김주경, 김승환, 이노을",
+          "en": "Ku Moa, Kim Seunghwan, Kim Jookyeong, Lee Noheul"
+        },
+        "URL Vendor": {
+          "en": "https://agfont.com/"
+        },
+        "Typographic Family": {
+          "ko": "해피니스 산스 인쇄용",
+          "en": "Happiness Sans Print"
+        },
+        "Typographic Subfamily": {
+          "ko": "타이틀",
+          "en": "Title"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;AGTI;Happiness-Sans-Print-Title"
+        }
+      }
+    },
+    {
+      "id": "hheadb",
+      "family": "hheadb",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hankyoreh/hheadb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) Tae System & Typefaces Co., 2005. All rights reserved."
+        },
+        "Font Family": {
+          "en": "한결제목B"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TaeSystem&TypefacesCo.: 한결제목B: 2005"
+        },
+        "Full Font Name": {
+          "en": "한결제목B"
+        },
+        "Version": {
+          "en": "Version 2.00 2005 initial release"
+        },
+        "PostScript Name": {
+          "en": "TSTHkyulHB"
+        },
+        "Trademark": {
+          "en": "한결제목B is a trademark of Tae System & Typefaces Co.."
+        },
+        "Manufacturer": {
+          "en": "Tae System & Typefaces Co."
+        },
+        "Designer": {
+          "en": "HBKIM & TJKIM"
+        }
+      }
+    },
+    {
+      "id": "hheadxb",
+      "family": "hheadxb",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hankyoreh/hheadxb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) Tae System & Typefaces Co., 2005. All rights reserved."
+        },
+        "Font Family": {
+          "en": "한결제목XB"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TaeSystem&TypefacesCo.: 한결제목XB: 2005"
+        },
+        "Full Font Name": {
+          "en": "한결제목XB"
+        },
+        "Version": {
+          "en": "Version 2.00 2005 initial release"
+        },
+        "PostScript Name": {
+          "en": "TSTHkulHXB"
+        },
+        "Trademark": {
+          "en": "한결제목XB is a trademark of Tae System & Typefaces Co.."
+        },
+        "Manufacturer": {
+          "en": "Tae System & Typefaces Co."
+        },
+        "Designer": {
+          "en": "HBKIM & TJKIM"
+        }
+      }
+    },
+    {
+      "id": "hkyolb",
+      "family": "hkyolb",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hankyoreh/hkyolb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) Tae System & Typefaces Co., 2005. All rights reserved."
+        },
+        "Font Family": {
+          "en": "한결B"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TaeSystem&TypefacesCo.: 한결B: 2005"
+        },
+        "Full Font Name": {
+          "en": "한결B"
+        },
+        "Version": {
+          "en": "Version 2.00 2005 initial release"
+        },
+        "PostScript Name": {
+          "en": "TSTHKyolBold"
+        },
+        "Trademark": {
+          "en": "한결B is a trademark of Tae System & Typefaces Co.."
+        },
+        "Manufacturer": {
+          "en": "Tae System & Typefaces Co."
+        },
+        "Designer": {
+          "en": "HBKIM & TJKIM"
+        }
+      }
+    },
+    {
+      "id": "hkyolr",
+      "family": "hkyolr",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hankyoreh/hkyolr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) Tae System & Typefaces Co., 2005. All rights reserved."
+        },
+        "Font Family": {
+          "en": "한결R"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TaeSystem&TypefacesCo.: 한결R: 2005"
+        },
+        "Full Font Name": {
+          "en": "한결R"
+        },
+        "Version": {
+          "en": "Version 2.00 2005 initial release"
+        },
+        "PostScript Name": {
+          "en": "TSTHKyolReg"
+        },
+        "Trademark": {
+          "en": "결R is a trademark of Tae System & Typefaces Co.."
+        },
+        "Manufacturer": {
+          "en": "Tae System & Typefaces Co."
+        },
+        "Designer": {
+          "en": "HBKIM & TJKIM"
+        }
+      }
+    },
+    {
+      "id": "hkyolsb",
+      "family": "hkyolsb",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "2.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/hankyoreh/hkyolsb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) Tae System & Typefaces Co., 2005. All rights reserved."
+        },
+        "Font Family": {
+          "en": "한결SB"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TaeSystem&TypefacesCo.: 한결SB: 2005"
+        },
+        "Full Font Name": {
+          "en": "한결SB"
+        },
+        "Version": {
+          "en": "Version 2.00 2005 initial release"
+        },
+        "PostScript Name": {
+          "en": "TSTHKyolSemiBold"
+        },
+        "Trademark": {
+          "en": "한결SB is a trademark of Tae System & Typefaces Co.."
+        },
+        "Manufacturer": {
+          "en": "Tae System & Typefaces Co."
+        },
+        "Designer": {
+          "en": "HBKIM & TJKIM"
+        }
+      }
+    },
+    {
       "id": "jejugothic",
       "family": "jejugothic",
       "categories": [

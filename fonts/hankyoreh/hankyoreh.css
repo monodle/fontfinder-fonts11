@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'hheadb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hheadb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hheadxb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hheadxb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hkyolb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hkyolb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hkyolr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hkyolr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hkyolsb';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hkyolsb.woff2') format('woff2');
+}

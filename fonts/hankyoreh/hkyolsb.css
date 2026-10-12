@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'hkyolsb';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hkyolsb.woff2') format('woff2');
+}

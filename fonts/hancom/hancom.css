@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'hancomhoonminjeongeumh';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hancomhoonminjeongeumh.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hancommalangmalang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hancommalangmalang-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hancommalangmalang';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hancommalangmalang-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hancomuljubangudaepetroglyph';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hancomuljubangudaepetroglyph.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'hancomuljucheonjeonripetroglyph';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./hancomuljucheonjeonripetroglyph.woff2') format('woff2');
+}
