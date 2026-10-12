@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'kotra';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kotra_bold.woff2') format('woff2');
+}

@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'gamtanroad-batang';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-batang-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-batang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-batang-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-batang';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-batang-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-gamtan';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-gamtan.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-tantan';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-tantan.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jsarirang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jsarirang-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jsariranghon';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jsariranghon-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jsarirangppuri';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jsarirangppuri-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jsdongkang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jsdongkang-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jsdongkang';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jsdongkang-bold.woff2') format('woff2');
+}

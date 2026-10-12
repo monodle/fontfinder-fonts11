@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'electrical-safety';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./electrical-safety-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'electrical-safety';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./electrical-safety-bold.woff2') format('woff2');
+}

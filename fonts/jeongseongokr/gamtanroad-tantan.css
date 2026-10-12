@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'gamtanroad-tantan';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-tantan.woff2') format('woff2');
+}

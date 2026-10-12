@@ -1,0 +1,4037 @@
+{
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts",
+  "fonts": [
+    {
+      "id": "changwondangamasac",
+      "family": "changwondangamasac",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/changwondangam/changwondangamasac.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.ddungsang.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2021 CHANGWON CITY. All rights reserved.",
+          "en": "Copyright © 2021 CHANGWON CITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "창원단감아삭 Bold",
+          "en": "ChangwonDangamAsac Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;CWDangamAsac-Bold"
+        },
+        "Full Font Name": {
+          "ko": "창원단감아삭 Bold",
+          "en": "ChangwonDangamAsac Bold"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20210623"
+        },
+        "PostScript Name": {
+          "en": "CWDangamAsac-Bold"
+        },
+        "Trademark": {
+          "en": "ChangwonDangamAsac is a trademark of CHANGWON CITY."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Choi Chi-young, Lee Youngbeen, Kim Jungjin, Yoon Jihee, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.ddungsang.com"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        },
+        "Typographic Family": {
+          "ko": "창원단감아삭",
+          "en": "ChangwonDangamAsac"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "changwondangamround",
+      "family": "changwondangamround",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/changwondangam/changwondangamround.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://changwon.go.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2024 CHANGWON SPECIAL CITY. All rights reserved.",
+          "en": "Copyright © CHANGWON SPECIAL CITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "창원단감둥근",
+          "en": "ChangwonDangamRound"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TTS ;ChangwonDangamRound-Regular"
+        },
+        "Full Font Name": {
+          "ko": "창원단감둥근",
+          "en": "ChangwonDangamRound"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20241113"
+        },
+        "PostScript Name": {
+          "en": "ChangwonDangamRound-Regular"
+        },
+        "Trademark": {
+          "en": "ChangwonDangamRound is a trademark of CHANGWON SPECIAL CITY."
+        },
+        "Manufacturer": {
+          "en": "ttseoul"
+        },
+        "Designer": {
+          "ko": "티티서울",
+          "en": "ttseoul"
+        },
+        "URL Vendor": {
+          "en": "https://changwon.go.kr"
+        }
+      }
+    },
+    {
+      "id": "chosunbg",
+      "family": "chosunbg",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunbg.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선견고딕",
+          "en": "조선견고딕"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선견고딕",
+          "en": "조선견고딕"
+        },
+        "Full Font Name": {
+          "ko": "조선견고딕",
+          "en": "조선견고딕"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunBg",
+          "en": "ChosunBg"
+        }
+      }
+    },
+    {
+      "id": "chosungs",
+      "family": "chosungs",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosungs.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선궁서체",
+          "en": "조선궁서체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선궁서체",
+          "en": "조선궁서체"
+        },
+        "Full Font Name": {
+          "ko": "조선궁서체",
+          "en": "조선궁서체"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunGs",
+          "en": "ChosunGs"
+        }
+      }
+    },
+    {
+      "id": "chosungu",
+      "family": "chosungu",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosungu.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선굴림체",
+          "en": "조선굴림체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선굴림체",
+          "en": "조선굴림체"
+        },
+        "Full Font Name": {
+          "ko": "조선굴림체",
+          "en": "조선굴림체"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunGu",
+          "en": "ChosunGu"
+        }
+      }
+    },
+    {
+      "id": "chosunkg",
+      "family": "chosunkg",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunkg.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선굵은고딕",
+          "en": "조선굵은고딕"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선굵은고딕",
+          "en": "조선굵은고딕"
+        },
+        "Full Font Name": {
+          "ko": "조선굵은고딕",
+          "en": "조선굵은고딕"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunKg",
+          "en": "ChosunKg"
+        }
+      }
+    },
+    {
+      "id": "chosunkm",
+      "family": "chosunkm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunkm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선굵은명조",
+          "en": "조선굵은명조"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선굵은명조",
+          "en": "조선굵은명조"
+        },
+        "Full Font Name": {
+          "ko": "조선굵은명조",
+          "en": "조선굵은명조"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunKm",
+          "en": "ChosunKm"
+        }
+      }
+    },
+    {
+      "id": "chosunlo",
+      "family": "chosunlo",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunlo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선로고체",
+          "en": "조선로고체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선로고체",
+          "en": "조선로고체"
+        },
+        "Full Font Name": {
+          "ko": "조선로고체",
+          "en": "조선로고체"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunLo",
+          "en": "ChosunLo"
+        }
+      }
+    },
+    {
+      "id": "chosunsg",
+      "family": "chosunsg",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunsg.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선가는고딕",
+          "en": "조선가는고딕"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선가는고딕",
+          "en": "조선가는고딕"
+        },
+        "Full Font Name": {
+          "ko": "조선가는고딕",
+          "en": "조선가는고딕"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunSg",
+          "en": "ChosunSg"
+        }
+      }
+    },
+    {
+      "id": "chosunsm",
+      "family": "chosunsm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "020.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/chosun/chosunsm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) 2020 조선일보사",
+          "en": "Copyright(c) 2020 조선일보사"
+        },
+        "Font Family": {
+          "ko": "조선신명조",
+          "en": "조선신명조"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "조선신명조",
+          "en": "조선신명조"
+        },
+        "Full Font Name": {
+          "ko": "조선신명조",
+          "en": "조선신명조"
+        },
+        "Version": {
+          "ko": "020.100",
+          "en": "020.100"
+        },
+        "PostScript Name": {
+          "ko": "ChosunSm",
+          "en": "ChosunSm"
+        }
+      }
+    },
+    {
+      "id": "cju",
+      "family": "cju",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/cju/cju.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "(C) Copyright 2021 Cheongju University Corporation. All rights reserved. Font designed by HanYang Inc.",
+          "en": "(C) Copyright 2021 Cheongju University Corporation. All rights reserved. Font designed by HanYang Inc.",
+          "und": "(C) Copyright 2021 Cheongju University Corporation. All rights reserved. Font designed by HanYang Inc."
+        },
+        "Font Family": {
+          "ko": "청주대학교B",
+          "en": "CJU B",
+          "und": "CJU B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular",
+          "und": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "청주대학교B",
+          "en": "CJU B",
+          "und": "CJU B"
+        },
+        "Full Font Name": {
+          "ko": "청주대학교B",
+          "en": "CJU B",
+          "und": "CJU B"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00",
+          "und": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "CJU-Bold",
+          "en": "CJU-Bold",
+          "und": "CJU-Bold"
+        },
+        "Trademark": {
+          "ko": "청주대학교B & CJU B is a registered trademark of the HanYang I&C Co.,Ltd. https://www.hanyang.co.kr",
+          "en": "청주대학교B & CJU B is a registered trademark of the HanYang I&C Co.,Ltd. https://www.hanyang.co.kr",
+          "und": "청주대학교B & CJU B is a registered trademark of the HanYang I&C Co.,Ltd. https://www.hanyang.co.kr"
+        },
+        "URL Vendor": {
+          "ko": "hppts://www.cju.ac.kr",
+          "en": "hppts://www.cju.ac.kr",
+          "und": "hppts://www.cju.ac.kr"
+        },
+        "Typographic Family": {
+          "ko": "청주대학교",
+          "en": "CJU"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "electrical-safety",
+      "family": "electrical-safety",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/electrical-safety/electrical-safety.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2024 by KOREA ELECTRICAL SAFETY CORPORATION. All rights reserved.",
+          "en": "Copyright (c) 2024 by KOREA ELECTRICAL SAFETY CORPORATION. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "전기안전체 Regular",
+          "en": "Electrical Safety Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Electrical Safety Regular"
+        },
+        "Full Font Name": {
+          "ko": "전기안전체 Regular",
+          "en": "Electrical Safety Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "전기안전체 Regular",
+          "en": "Electrical Safety Regular"
+        },
+        "Trademark": {
+          "ko": "Electrical Safety Regular is a trademark of KOREA ELECTRICAL SAFETY CORPORATION.",
+          "en": "Electrical Safety Regular is a trademark of KOREA ELECTRICAL SAFETY CORPORATION."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "KOREA ELECTRICAL SAFETY CORPORATION"
+        },
+        "License Info URL": {
+          "en": "https://www.kesco.or.kr"
+        },
+        "Typographic Family": {
+          "ko": "전기안전체",
+          "en": "Electrical Safety"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gamtanroad-batang",
+      "family": "gamtanroad-batang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/gamtanroad-batang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Gangwon State. All rights reserved.",
+          "en": "Copyright (c) 2023 by Gangwon State. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "감탄로드바탕체 Regular",
+          "en": "GamtanRoad Batang Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "GamtanRoad Batang Regular"
+        },
+        "Full Font Name": {
+          "ko": "감탄로드바탕체 Regular",
+          "en": "GamtanRoad Batang Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "감탄로드바탕체 Regular",
+          "en": "GamtanRoad Batang Regular"
+        },
+        "Trademark": {
+          "ko": "GamtanRoad Batang Regular is a trademark of Gangwon State.",
+          "en": "GamtanRoad Batang Regular is a trademark of Gangwon State."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gangwon State"
+        },
+        "License Info URL": {
+          "en": "https://www.gangwon.to/gwtour/information/map"
+        },
+        "Typographic Family": {
+          "ko": "감탄로드바탕체",
+          "en": "GamtanRoad Batang"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gamtanroad-dotum",
+      "family": "gamtanroad-dotum",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/gamtanroad-dotum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Gangwon State. All rights reserved.",
+          "en": "Copyright (c) 2023 by Gangwon State. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "감탄로드돋움체 Regular",
+          "en": "GamtanRoad Dotum Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "GamtanRoad Dotum Regular"
+        },
+        "Full Font Name": {
+          "ko": "감탄로드돋움체 Regular",
+          "en": "GamtanRoad Dotum Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "감탄로드돋움체 Regular",
+          "en": "GamtanRoad Dotum Regular"
+        },
+        "Trademark": {
+          "ko": "GamtanRoad Dotum Regular is a trademark of Gangwon State.",
+          "en": "GamtanRoad Dotum Regular is a trademark of Gangwon State."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gangwon State"
+        },
+        "License Info URL": {
+          "en": "https://www.gangwon.to/gwtour/information/map"
+        },
+        "Typographic Family": {
+          "ko": "감탄로드돋움체",
+          "en": "GamtanRoad Dotum"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gamtanroad-gamtan",
+      "family": "gamtanroad-gamtan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/gamtanroad-gamtan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Gangwon State. All rights reserved.",
+          "en": "Copyright (c) 2023 by Gangwon State. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "감탄로드감탄체",
+          "en": "GamtanRoad Gamtan"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "GamtanRoad Gamtan"
+        },
+        "Full Font Name": {
+          "ko": "감탄로드감탄체",
+          "en": "GamtanRoad Gamtan"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "감탄로드감탄체",
+          "en": "GamtanRoad Gamtan"
+        },
+        "Trademark": {
+          "ko": "GamtanRoad Gamtan is a trademark of Gangwon State.",
+          "en": "GamtanRoad Gamtan is a trademark of Gangwon State."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gangwon State"
+        },
+        "License Info URL": {
+          "en": "https://www.gangwon.to/gwtour/information/map"
+        },
+        "Typographic Family": {
+          "ko": "감탄로드감탄체",
+          "en": "GamtanRoad Gamtan"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "gamtanroad-tantan",
+      "family": "gamtanroad-tantan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/gamtanroad-tantan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Gangwon State. All rights reserved.",
+          "en": "Copyright (c) 2023 by Gangwon State. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "감탄로드탄탄체",
+          "en": "GamtanRoad Tantan"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "GamtanRoad Tantan"
+        },
+        "Full Font Name": {
+          "ko": "감탄로드탄탄체",
+          "en": "GamtanRoad Tantan"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "감탄로드탄탄체",
+          "en": "GamtanRoad Tantan"
+        },
+        "Trademark": {
+          "ko": "GamtanRoad Tantan is a trademark of Gangwon State.",
+          "en": "GamtanRoad Tantan is a trademark of Gangwon State."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Gangwon State"
+        },
+        "License Info URL": {
+          "en": "https://www.gangwon.to/gwtour/information/map"
+        },
+        "Typographic Family": {
+          "ko": "감탄로드탄탄체",
+          "en": "GamtanRoad Tantan"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "jejugothic",
+      "family": "jejugothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jejugokr/jejugothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.sandoll.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright  2010 Sandoll Communications Inc. All rights reserved.",
+          "en": "Copyright © 2010 Sandoll Communications Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "제주고딕OTF",
+          "en": "JejuGothicOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;JejuGothicOTF;171010_01;"
+        },
+        "Full Font Name": {
+          "ko": "제주고딕OTF",
+          "en": "JejuGothicOTF"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
+        },
+        "PostScript Name": {
+          "en": "JejuGothicOTF"
+        },
+        "Trademark": {
+          "en": "JejuGothicOTF Regular is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Communications Inc."
+        },
+        "Designer": {
+          "ko": "Sandoll Communications Inc.",
+          "en": "Sandoll Communications Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sandoll.co.kr"
+        },
+        "License Description": {
+          "en": "Sandoll Communications Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.sandoll.co.kr"
+        }
+      }
+    },
+    {
+      "id": "jejuhallasan",
+      "family": "jejuhallasan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jejugokr/jejuhallasan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.sandoll.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright  2010 Sandoll Communications Inc. All rights reserved.",
+          "en": "Copyright © 2010 Sandoll Communications Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "제주한라산OTF",
+          "en": "JejuHallasanOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;JejuHallasanOTF;171010_01;"
+        },
+        "Full Font Name": {
+          "ko": "제주한라산OTF",
+          "en": "JejuHallasanOTF"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
+        },
+        "PostScript Name": {
+          "en": "JejuHallasanOTF"
+        },
+        "Trademark": {
+          "en": "JejuHallasanOTF Regular is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Communications Inc."
+        },
+        "Designer": {
+          "ko": "Sandoll Communications Inc.",
+          "en": "Sandoll Communications Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sandoll.co.kr"
+        },
+        "License Description": {
+          "en": "Sandoll Communications Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.sandoll.co.kr"
+        }
+      }
+    },
+    {
+      "id": "jejumyeongjo",
+      "family": "jejumyeongjo",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jejugokr/jejumyeongjo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.sandoll.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright  2010 Sandoll Communications Inc. All rights reserved.",
+          "en": "Copyright © 2010 Sandoll Communications Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "제주명조OTF",
+          "en": "JejuMyeongjoOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;JejuMyeongjoOTF;171010_01;"
+        },
+        "Full Font Name": {
+          "ko": "제주명조OTF",
+          "en": "JejuMyeongjoOTF"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
+        },
+        "PostScript Name": {
+          "en": "JejuMyeongjoOTF"
+        },
+        "Trademark": {
+          "en": "JejuMyeongjoOTF Regular is a registered trademark of Sandoll Communications Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Communications Inc."
+        },
+        "Designer": {
+          "ko": "Sandoll Communications Inc.",
+          "en": "Sandoll Communications Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sandoll.co.kr"
+        },
+        "License Description": {
+          "en": "Sandoll Communications Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.sandoll.co.kr"
+        }
+      }
+    },
+    {
+      "id": "jeonbukstate",
+      "family": "jeonbukstatesb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "5.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeonbukstate/jeonbukstate.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 7,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 600,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2024 by JeonbukState All rights reserved. Font designed by TypoDesign Lab",
+          "en": "COPYRIGHT ®œ 2024 by JeonbukState All rights reserved. Font designed by TypoDesign Lab"
+        },
+        "Font Family": {
+          "ko": "전북특별체",
+          "en": "JeonbukState"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "SB_OTF",
+          "en": "SB_OTF"
+        },
+        "Unique Font Identifier": {
+          "ko": "JeonbukStateSBOTF",
+          "en": "JeonbukStateSBOTF"
+        },
+        "Full Font Name": {
+          "ko": "전북특별체 SB_OTF",
+          "en": "JeonbukState SB_OTF"
+        },
+        "Version": {
+          "ko": "Version 5.0.0",
+          "en": "Version 5.0.0"
+        },
+        "PostScript Name": {
+          "ko": "JeonbukStateSBOTF",
+          "en": "JeonbukStateSBOTF"
+        },
+        "Trademark": {
+          "ko": "JeonbukState, TypoFonts is a registered trademark of TypoDesign Lab",
+          "en": "JeonbukState, TypoFonts is a registered trademark of TypoDesign Lab"
+        },
+        "Manufacturer": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "Designer": {
+          "ko": "(주)타이포디자인연구소 임진욱 정다은",
+          "en": "TypoDesign Lab"
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "전북특별체",
+          "en": "JeonbukState"
+        },
+        "Typographic Subfamily": {
+          "ko": "SB_OTF",
+          "en": "SB_OTF"
+        }
+      }
+    },
+    {
+      "id": "jsarirang",
+      "family": "jsarirang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/jsarirang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) by Jeongseon. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "정선아리랑",
+          "en": "JS Arirang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.100;YDI ;JSArirang-Regular"
+        },
+        "Full Font Name": {
+          "ko": "정선아리랑",
+          "en": "JS Arirang"
+        },
+        "Version": {
+          "en": "Version 1.100;Build 20180110"
+        },
+        "PostScript Name": {
+          "en": "JSArirang-Regular"
+        },
+        "Trademark": {
+          "en": "JS Arirang is a trademark of Jeongseon."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "jsariranghon",
+      "family": "jsariranghon",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/jsariranghon.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) by Jeongseon. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "정선아리랑 혼",
+          "en": "JS Arirang HON"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;JSArirangHON-Regular"
+        },
+        "Full Font Name": {
+          "ko": "정선아리랑 혼",
+          "en": "JS Arirang HON"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20180817"
+        },
+        "PostScript Name": {
+          "en": "JSArirangHON-Regular"
+        },
+        "Trademark": {
+          "en": "JS Arirang HON is a trademark of Jeongseon."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "jsarirangppuri",
+      "family": "jsarirangppuri",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/jsarirangppuri.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) by Jeongseon. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "정선아리랑 뿌리",
+          "en": "JS Arirang PPURI"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;JSArirangPPURI-Regular"
+        },
+        "Full Font Name": {
+          "ko": "정선아리랑 뿌리",
+          "en": "JS Arirang PPURI"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20180110"
+        },
+        "PostScript Name": {
+          "en": "JSArirangPPURI-Regular"
+        },
+        "Trademark": {
+          "en": "JS Arirang PPURI is a trademark of Jeongseon."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "jsdongkang",
+      "family": "jsdongkang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/jeongseongokr/jsdongkang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) by Jeongseon. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "정선동강",
+          "en": "JS Dongkang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;JSDongkang-Regular"
+        },
+        "Full Font Name": {
+          "ko": "정선동강",
+          "en": "JS Dongkang"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20170830"
+        },
+        "PostScript Name": {
+          "en": "JSDongkang-Regular"
+        },
+        "Trademark": {
+          "en": "JS Dongkang is a trademark of Jeongseon."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com/license"
+        }
+      }
+    },
+    {
+      "id": "korail-b",
+      "family": "korail-b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/korail/korail-b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2025 by Korail All rights reserved. Font designed by Korail",
+          "en": "COPYRIGHT ⓒ 2025 by korail All rights reserved. Font designed by korail"
+        },
+        "Font Family": {
+          "ko": "코레일체 B",
+          "en": "Korail B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "ko": "TypoDesign_KorailB",
+          "en": "TypoDesign_KorailB"
+        },
+        "Full Font Name": {
+          "ko": "코레일체 B",
+          "en": "Korail B"
+        },
+        "Version": {
+          "ko": "Version 3.0.0",
+          "en": "Version 3.0.0"
+        },
+        "PostScript Name": {
+          "ko": "KorailB",
+          "en": "KorailB"
+        },
+        "Trademark": {
+          "ko": "코레일체, TypoFonts is a registered trademark of korail",
+          "en": "Korail, TypoFonts is a registered trademark of korail"
+        },
+        "Manufacturer": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "Designer": {
+          "ko": "(주)타이포디자인연구소: 임진욱",
+          "en": "TypoDesign Lab"
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "코레일체",
+          "en": "Korail"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "korail-l",
+      "family": "korail-l",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/korail/korail-l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2025 by Korail All rights reserved. Font designed by Korail",
+          "en": "COPYRIGHT ⓒ 2025 by korail All rights reserved. Font designed by korail"
+        },
+        "Font Family": {
+          "ko": "코레일체 L",
+          "en": "Korail L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "L",
+          "en": "L"
+        },
+        "Unique Font Identifier": {
+          "ko": "TypoDesign_KorailL",
+          "en": "TypoDesign_KorailL"
+        },
+        "Full Font Name": {
+          "ko": "코레일체 L",
+          "en": "Korail L"
+        },
+        "Version": {
+          "ko": "Version 3.0.0",
+          "en": "Version 3.0.0"
+        },
+        "PostScript Name": {
+          "ko": "KorailL",
+          "en": "KorailL"
+        },
+        "Trademark": {
+          "ko": "코레일체, TypoFonts is a registered trademark of korail",
+          "en": "Korail, TypoFonts is a registered trademark of korail"
+        },
+        "Manufacturer": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "Designer": {
+          "ko": "(주)타이포디자인연구소: 임진욱",
+          "en": "TypoDesign Lab"
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "코레일체",
+          "en": "Korail"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "korail-m",
+      "family": "korail-m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/korail/korail-m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2025 by Korail All rights reserved. Font designed by Korail",
+          "en": "COPYRIGHT ⓒ 2025 by korail All rights reserved. Font designed by korail"
+        },
+        "Font Family": {
+          "ko": "코레일체 M",
+          "en": "Korail M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "M",
+          "en": "M"
+        },
+        "Unique Font Identifier": {
+          "ko": "TypoDesign_KorailM",
+          "en": "TypoDesign_KorailM"
+        },
+        "Full Font Name": {
+          "ko": "코레일체 M",
+          "en": "Korail M"
+        },
+        "Version": {
+          "ko": "Version 3.0.0",
+          "en": "Version 3.0.0"
+        },
+        "PostScript Name": {
+          "ko": "KorailM",
+          "en": "KorailM"
+        },
+        "Trademark": {
+          "ko": "코레일체, TypoFonts is a registered trademark of korail",
+          "en": "Korail, TypoFonts is a registered trademark of korail"
+        },
+        "Manufacturer": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "Designer": {
+          "ko": "(주)타이포디자인연구소: 임진욱",
+          "en": "TypoDesign Lab"
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "TypoDesign lab.inc.",
+          "en": "TypoDesign lab.inc."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "코레일체",
+          "en": "Korail"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "kotra",
+      "family": "kotra",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/kotra/kotra.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 7,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.kotra.or.kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 KOTRA. All right reserved.",
+          "en": "Copyright 2020 KOTRA. All right reserved."
+        },
+        "Font Family": {
+          "ko": "코트라 볼드체",
+          "en": "KOTRA_BOLD"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "KOTRA_BOLD Bold:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "코트라 볼드체",
+          "en": "KOTRA_BOLD Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00 October 07, 2020",
+          "en": "Version 1.00 October 7, 2020, initial release"
+        },
+        "PostScript Name": {
+          "en": "KOTRA_BOLD-Bold"
+        },
+        "Manufacturer": {
+          "en": "KOTRA"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션",
+          "en": "daonfont"
+        },
+        "License Info URL": {
+          "ko": "https://www.kotra.or.kr/",
+          "en": "https://www.kotra.or.kr/"
+        },
+        "License Description": {
+          "ko": "대한무역투자진흥공사"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold"
+        }
+      }
+    },
+    {
+      "id": "kotra-gothic",
+      "family": "kotra_gothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.01",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/kotra/kotra_gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.kotra.or.kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 KOTRA. All right reserved.",
+          "en": "Copyright 2020 KOTRA. All right reserved."
+        },
+        "Font Family": {
+          "ko": "코트라 고딕체",
+          "en": "KOTRA_GOTHIC"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "KOTRA_GOTHIC:Version 1.01"
+        },
+        "Full Font Name": {
+          "ko": "코트라 고딕체",
+          "en": "KOTRA_GOTHIC"
+        },
+        "Version": {
+          "ko": "Version 1.01 October 07, 2020",
+          "en": "Version 1.01 October 7, 2020"
+        },
+        "PostScript Name": {
+          "en": "KOTRA_GOTHIC"
+        },
+        "Manufacturer": {
+          "en": "KOTRA"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션",
+          "en": "daonfont"
+        },
+        "License Description": {
+          "ko": "대한무역투자진흥공사",
+          "en": "KOTRA"
+        },
+        "License Info URL": {
+          "ko": "https://www.kotra.or.kr/",
+          "en": "www.daonfont.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "kotra-songeulssi",
+      "family": "kotra_songeulssi",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/kotra/kotra_songeulssi.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 KOTRA. All right reserved.",
+          "en": "Copyright 2020 KOTRA. All right reserved."
+        },
+        "Font Family": {
+          "ko": "코트라 손글씨체",
+          "en": "KOTRA_SONGEULSSI"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "en": "KOTRA_SONGEULSSI Medium:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "코트라 손글씨체",
+          "en": "KOTRA_SONGEULSSI Medium"
+        },
+        "Version": {
+          "ko": "Version 1.00 October 07, 2020",
+          "en": "Version 1.00 October 7, 2020, initial release"
+        },
+        "PostScript Name": {
+          "en": "KOTRA_SONGEULSSI-Medium"
+        },
+        "Trademark": {
+          "en": "anidaon@naver.com"
+        },
+        "Manufacturer": {
+          "en": "KOTRA"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션",
+          "en": "KOTRA"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "License Description": {
+          "ko": "대한무역투자진흥공사",
+          "en": "anidaon@naver.com"
+        },
+        "License Info URL": {
+          "ko": "www.daonfont.com",
+          "en": "www.daonfont.com"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium"
+        }
+      }
+    },
+    {
+      "id": "otenjoystoriesb",
+      "family": "otenjoystoriesb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tvn10/otenjoystoriesb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2016 CJ E&M All right reserved.",
+          "en": "Copyright (c) 2016 CJ E&M All right reserved."
+        },
+        "Font Family": {
+          "ko": "tvN 즐거운이야기OTF Bold",
+          "en": "tvN EnjoystoriesOTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "tvNEnjoystoriesOTFB"
+        },
+        "Full Font Name": {
+          "ko": "tvN 즐거운이야기OTF Bold",
+          "en": "tvN EnjoystoriesOTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTEnjoystoriesB"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "tvN 즐거운이야기OTF",
+          "en": "tvN EnjoystoriesOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "otenjoystoriesl",
+      "family": "otenjoystoriesl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tvn10/otenjoystoriesl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2016 CJ E&M All right reserved.",
+          "en": "Copyright (c) 2016 CJ E&M All right reserved."
+        },
+        "Font Family": {
+          "ko": "tvN 즐거운이야기OTF Light",
+          "en": "tvN EnjoystoriesOTF Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "tvNEnjoystoriesOTFL"
+        },
+        "Full Font Name": {
+          "ko": "tvN 즐거운이야기OTF Light",
+          "en": "tvN EnjoystoriesOTF Light"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTEnjoystoriesL"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "tvN 즐거운이야기OTF",
+          "en": "tvN EnjoystoriesOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "otenjoystoriesm",
+      "family": "otenjoystoriesm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tvn10/otenjoystoriesm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2016 CJ E&M All right reserved.",
+          "en": "Copyright (c) 2016 CJ E&M All right reserved."
+        },
+        "Font Family": {
+          "ko": "tvN 즐거운이야기OTF Medium",
+          "en": "tvN EnjoystoriesOTF Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "tvNEnjoystoriesOTFM"
+        },
+        "Full Font Name": {
+          "ko": "tvN 즐거운이야기OTF Medium",
+          "en": "tvN EnjoystoriesOTF Medium"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTEnjoystoriesM"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "tvN 즐거운이야기OTF",
+          "en": "tvN EnjoystoriesOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "taebaek-font",
+      "family": "taebaek-font",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/taebaekgokr/taebaek-font.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 by TAEBAEK-SI. All rights reserved.",
+          "en": "Copyright (c) 2022 by TAEBAEK-SI. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "태백체",
+          "en": "TAEBAEK font"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TAEBAEK font"
+        },
+        "Full Font Name": {
+          "ko": "태백체",
+          "en": "TAEBAEK font"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "TAEBAEK font"
+        },
+        "Trademark": {
+          "en": "TAEBAEK font is a trademark of TAEBAEK-SI."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "TAEBAEK-SI"
+        },
+        "License Info URL": {
+          "en": "http://www.taebaek.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "태백체",
+          "en": "TAEBAEK font"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "taebaek-milkyway",
+      "family": "taebaek-milkyway",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/taebaekgokr/taebaek-milkyway.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://togethergroup.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 by TAEBAEK-SI. All rights reserved.",
+          "en": "Copyright (c) 2022 by TAEBAEK-SI. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "태백은하수체",
+          "en": "TAEBAEK milkyway"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TT;TAEBAEK milkyway"
+        },
+        "Full Font Name": {
+          "ko": "태백은하수체",
+          "en": "TAEBAEK milkyway"
+        },
+        "Version": {
+          "en": "Version 1.000;FEAKit 1.0"
+        },
+        "PostScript Name": {
+          "en": "TAEBAEK milkyway"
+        },
+        "Trademark": {
+          "en": "TAEBAEK milkyway is a trademark of TAEBAEK-SI."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://togethergroup.co.kr"
+        },
+        "License Description": {
+          "en": "TAEBAEK-SI"
+        },
+        "License Info URL": {
+          "en": "http://www.taebaek.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "태백은하수체",
+          "en": "TAEBAEK milkyway"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "tenada",
+      "family": "tenada",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tenada/tenada.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 800,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2020 by Tenada Corp.. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "태나다체",
+          "en": "Tenada"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "ExtraBold",
+          "en": "ExtraBold"
+        },
+        "Unique Font Identifier": {
+          "en": "Tenada Corp.: Tenada: 2020"
+        },
+        "Full Font Name": {
+          "ko": "태나다체",
+          "en": "Tenada"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "태나다체",
+          "en": "Tenada"
+        },
+        "Trademark": {
+          "en": "Tenada is a trademark of Tenada Corp."
+        },
+        "Manufacturer": {
+          "en": "Tenada Corp."
+        },
+        "Designer": {
+          "en": "Hanseul Lee"
+        },
+        "License Description": {
+          "en": "Copyright (c) 2020 by Tenada Corp.. All rights reserved."
+        },
+        "Typographic Family": {
+          "ko": "태나다체",
+          "en": "Tenada"
+        },
+        "Typographic Subfamily": {
+          "ko": "ExtraBold",
+          "en": "ExtraBold"
+        }
+      }
+    },
+    {
+      "id": "tmoneyroundwind",
+      "family": "tmoneyroundwind",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tmoneyroundwind/tmoneyroundwind.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 5,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019 Tmoney Co., Ltd. All rights reserved.",
+          "en": "Copyright © Tmoney Co., Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "티머니 둥근바람 Regular",
+          "en": "Tmoney RoundWind Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;TmoneyRoundWind-Regular"
+        },
+        "Full Font Name": {
+          "ko": "티머니 둥근바람 Regular",
+          "en": "Tmoney RoundWind Regular"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20191105"
+        },
+        "PostScript Name": {
+          "en": "TmoneyRoundWind-Regular"
+        },
+        "Trademark": {
+          "en": "Tmoney RoundWind is a trademark of Tmoney Co., Ltd."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Designer": {
+          "ko": "임광규; 허수정; 이혜원; 한도희",
+          "en": "Im, Kwangkyu; Huh, SuJung; Lee HyeWon; Han, dohee"
+        },
+        "Typographic Family": {
+          "ko": "티머니 둥근바람",
+          "en": "Tmoney RoundWind"
+        }
+      }
+    },
+    {
+      "id": "tway-air",
+      "family": "tway_air",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tway/tway_air.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.fontlab.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 fontlab. All rights reserved.",
+          "en": "Copyright 2020 fontlab. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "티웨이_항공",
+          "en": "twayair"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "fontlab: tway_air: 2020",
+          "en": "fontlab: tway_air: 2020"
+        },
+        "Full Font Name": {
+          "ko": "티웨이_항공",
+          "en": "tway_air"
+        },
+        "Version": {
+          "ko": "Version 1.00 2020 initial release.",
+          "en": "Version 1.00 2020 initial release."
+        },
+        "PostScript Name": {
+          "ko": "티웨이_항공",
+          "en": "twayair"
+        },
+        "Trademark": {
+          "ko": "티웨이_항공 is a registered trademark of fontlab.",
+          "en": "twayair is a registered trademark of fontlab."
+        },
+        "Manufacturer": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "Designer": {
+          "ko": "JinKyung Park",
+          "en": "JinKyung Park"
+        },
+        "URL Vendor": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "License Description": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "License Info URL": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "티웨이_항공",
+          "en": "twayair"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "tway-fly",
+      "family": "tway_fly",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tway/tway_fly.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.fontlab.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 fontlab. All rights reserved.",
+          "en": "Copyright 2020 fontlab. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "티웨이_날다",
+          "en": "twayfly"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "fontlab: tway_fly: 2020",
+          "en": "fontlab: tway_fly: 2020"
+        },
+        "Full Font Name": {
+          "ko": "티웨이_날다",
+          "en": "tway_fly"
+        },
+        "Version": {
+          "ko": "Version 1.00 2020 initial release.",
+          "en": "Version 1.00 2020 initial release."
+        },
+        "PostScript Name": {
+          "ko": "티웨이_날다",
+          "en": "twayfly"
+        },
+        "Trademark": {
+          "ko": "티웨이_날다 is a registered trademark of fontlab.",
+          "en": "tway_fly is a registered trademark of fontlab."
+        },
+        "Manufacturer": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "Designer": {
+          "ko": "JinKyung Park",
+          "en": "JinKyung Park"
+        },
+        "URL Vendor": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "License Description": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "License Info URL": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "티웨이_날다",
+          "en": "tway_fly"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "tway-sky",
+      "family": "tway_sky",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/tway/tway_sky.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.fontlab.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2020 fontlab. All rights reserved.",
+          "en": "Copyright 2020 fontlab. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "티웨이_하늘",
+          "en": "twaysky"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "fontlab: tway_sky: 2020",
+          "en": "fontlab: tway_sky: 2020"
+        },
+        "Full Font Name": {
+          "ko": "티웨이_하늘",
+          "en": "tway_sky"
+        },
+        "Version": {
+          "ko": "Version 1.00 2020 initial release.",
+          "en": "Version 1.00 2020 initial release."
+        },
+        "PostScript Name": {
+          "ko": "티웨이_하늘",
+          "en": "twaysky"
+        },
+        "Trademark": {
+          "ko": "티웨이_하늘 is a registered trademark of fontlab.",
+          "en": "twaysky is a registered trademark of fontlab."
+        },
+        "Manufacturer": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "Designer": {
+          "ko": "JinKyung Park",
+          "en": "JinKyung Park"
+        },
+        "URL Vendor": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "License Description": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "License Info URL": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "티웨이_하늘",
+          "en": "tway_sky"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "yisunshin",
+      "family": "yisunshin",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/yisunshin/yisunshin.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2015. Asan City & Hangria all rights reserved.",
+          "en": "Copyright 2015. Asan City & Hangria all rights reserved."
+        },
+        "Font Family": {
+          "ko": "이순신 Regular",
+          "en": "YiSunShin Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "이순신 Regular Regular",
+          "en": "YiSunShin Regular Regular"
+        },
+        "Full Font Name": {
+          "ko": "이순신 Regular",
+          "en": "YiSunShin Regular"
+        },
+        "Version": {
+          "ko": "Version 1.0 [ 제작사 : 아산시 & 한그리아 (Asan City & Hangria) ] [ 디자이너 : 김진덕 (Jinduk, Kim) ] [ 프로그래머 : 김동규 (Dongkyu, Kim) ] [ 자료제공 : 여해고전연구소 노승석 박사 (Seungsrok, Ro / Yeohae Research institute of the classics) ]",
+          "en": "Version 1.0 [ Production : Asan City & Hangria ] [ Designer : Jinduk, Kim ] [ Programer : Dongkyu, Kim ] [ Furnish Data : Seungsrok, Ro / Yeohae Research institute of the classics ]"
+        },
+        "PostScript Name": {
+          "ko": "YiSunShinRegular",
+          "en": "YiSunShinRegular"
+        }
+      }
+    },
+    {
+      "id": "yisunshindotumb",
+      "family": "yisunshindotumb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/yisunshin/yisunshindotumb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "이순신 돋움체 B",
+          "en": "YiSunShin Dotum B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "이순신 돋움체 B Regular",
+          "en": "YiSunShin Dotum B Regular"
+        },
+        "Full Font Name": {
+          "ko": "이순신 돋움체 B",
+          "en": "YiSunShin Dotum B"
+        },
+        "Version": {
+          "ko": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규",
+          "en": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규"
+        },
+        "PostScript Name": {
+          "ko": "YiSunShinDotumB",
+          "en": "YiSunShinDotumB"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "yisunshindotuml",
+      "family": "yisunshindotuml",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/yisunshin/yisunshindotuml.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "이순신 돋움체 L",
+          "en": "YiSunShin Dotum L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "이순신 돋움체 L Regular",
+          "en": "YiSunShin Dotum L Regular"
+        },
+        "Full Font Name": {
+          "ko": "이순신 돋움체 L",
+          "en": "YiSunShin Dotum L"
+        },
+        "Version": {
+          "ko": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규",
+          "en": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규"
+        },
+        "PostScript Name": {
+          "ko": "YiSunShinDotumL",
+          "en": "YiSunShinDotumL"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "yisunshindotumm",
+      "family": "yisunshindotumm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/yisunshin/yisunshindotumm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "이순신 돋움체 M",
+          "en": "YiSunShin Dotum M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "이순신 돋움체 M Regular",
+          "en": "YiSunShin Dotum M Regular"
+        },
+        "Full Font Name": {
+          "ko": "이순신 돋움체 M",
+          "en": "YiSunShin Dotum M"
+        },
+        "Version": {
+          "ko": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규",
+          "en": "Version 1.0 제작사 : 한그리아 , 디자이너 : 김진덕 , 프로그래머 : 김동규"
+        },
+        "PostScript Name": {
+          "ko": "YiSunShinDotumM",
+          "en": "YiSunShinDotumM"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "youth",
+      "family": "youth",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts/youth/youth.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2013 Ministry of Gender Equality & Family. All Rights Reserved.",
+          "en": "Copyright (c) 2013 Ministry of Gender Equality & Family. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "청소년서체",
+          "en": "Youth"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "FONTRIX_Youth",
+          "en": "FONTRIX_Youth"
+        },
+        "Full Font Name": {
+          "ko": "청소년서체",
+          "en": "Youth"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "Youth",
+          "en": "Youth"
+        },
+        "Trademark": {
+          "ko": "Youth is a registered trademark of Ministry of Gender Equality & Family.",
+          "en": "Youth is a registered trademark of Ministry of Gender Equality & Family."
+        },
+        "Manufacturer": {
+          "en": "Ministry of Gender Equality & Family"
+        },
+        "Designer": {
+          "en": "Dong-kwan Kim; Kyung-min Kim;"
+        },
+        "URL Vendor": {
+          "en": "www.mogef.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "청소년서체",
+          "en": "Youth"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    }
+  ]
+}

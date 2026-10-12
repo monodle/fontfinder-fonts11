@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'tmoneyroundwind';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./tmoneyroundwindregular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'tmoneyroundwind';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./tmoneyroundwindextrabold.woff2') format('woff2');
+}

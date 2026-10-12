@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'chosunbg';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunbg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosungs';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosungs.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosungu';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosungu.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosunkg';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunkg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosunkm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunkm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosunlo';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunlo.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosunsg';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunsg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'chosunsm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./chosunsm.woff2') format('woff2');
+}

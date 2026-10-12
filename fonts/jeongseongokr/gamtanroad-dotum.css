@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-dotum';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-dotum-bold.woff2') format('woff2');
+}
